@@ -1,0 +1,1 @@
+Select Nome, Ano, Duracao from dbo.Filmes where Ano>= 2000

@@ -1,0 +1,1 @@
+select Nome, Ano, Duracao from dbo.Filmes order by Duracao DESC

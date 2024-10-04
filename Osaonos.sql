@@ -1,0 +1,1 @@
+Select Nome, Ano, Duracao From dbo.Filmes Where Ano= 1997
